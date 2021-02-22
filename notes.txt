@@ -1,0 +1,9 @@
+<b> - bold
+<i> - Italicized
+<br/> instead of </br>
+<hr/> - Horizontal line
+<big> - Beeg text
+<small> - smoll text
+<sub> - Subscript
+<sup> - Superscript
+<!-- Comment -->
