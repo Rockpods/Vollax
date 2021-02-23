@@ -56,6 +56,14 @@ END OF TEXTAREA
 
 
 CSS:
+font-size: 30px; - Changes font size
+color: red; - Changes color
+.something - anything with that class will have thos attributes
+font-family: font name; - Change font
+width: 1394px; changes width
+border-color: ; - changes border color
+border-width: ; - changes border width
+border-style: ; - changes the style of the line
 
 Useful Links:
 CSS Colors - https://www.w3schools.com/cssref/css_colors.asp
