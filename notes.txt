@@ -58,15 +58,19 @@ END OF TEXTAREA
 CSS:
 font-size: 30px; - Changes font size
 color: red; - Changes color
-.something - anything with that class will have thos attributes
+.something - anything with that class will have thos attributes, class="something"
 font-family: font name; - Change font
 width: 1394px; changes width
 border-color: ; - changes border color
 border-width: ; - changes border width
 border-style: ; - changes the style of the line
+border-radius: 10px; - Rounded corners
+background-color: ; - Background color
+#something - an id, like a class but only one thing, can be used to call back to in javascript, id="something"
+padding: ; - Changes the size of the padding around something
 
 Useful Links:
 CSS Colors - https://www.w3schools.com/cssref/css_colors.asp
 Hex Colors(CSS) - https://www.color-hex.com/
 HTML5 Input Types - https://www.w3schools.com/html/html_form_input_types.asp
-HTML5 Meta Tags list - https://gist.github.com/lancejpollard/1978404
+HTML5 Meta Tags list - https://gist.github.com/lancejpollard/1978404pa
