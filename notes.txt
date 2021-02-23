@@ -1,9 +1,64 @@
+HTML5:
+
+<p> - Paragraphs
+<h1> - <h6> - Headers
 <b> - bold
 <i> - Italicized
-<br/> instead of </br>
+<br/> - Line break
 <hr/> - Horizontal line
 <big> - Beeg text
 <small> - smoll text
 <sub> - Subscript
 <sup> - Superscript
 <!-- Comment -->
+Style: https://youtu.be/pQN-pnXPaVg?t=2644
+<header> - Denominates a header
+<main> - Denominates the main content
+<footer> - Denominates a footer
+<nav> - Navigational links or info(goes in header)
+<article> - An article(goes in main)
+<section> - Denominates different sections
+<aside> - On page and shown but not relevant
+<a href="website link">Something</a> - Link a website
+<img width="" height="" src="image" alt="text if image doesn't load" /> - Insert image, width and height in pixels(only width or height will auto resize to aspect ratio)
+<video src="video" poster="thumbnail" controls width="" height="">text if video doesn't load</video> - Insert video, width and height in pixels, autoplay or loop are optional and go before controls(only width or height will auto resize to aspect ratio)
+<ul><li> </li></ul> - ul means unordered list(bullet points) and li is each thing listed
+<ol><li> </li></ol> - ol means ordered list(numbered list) and li is each thing listed, you can do <ol type=""> and type A, a, I, or i
+<dl><dt><dd> </dd></dt></dl> - dl means description list(someting written then a description), dt means the thing written before being described like an item, and dd means the the description of that item
+Extra list info: you can put a list inside a list
+Table example
+<table>
+    <thead> <!-- head of the table -->
+    <caption>The Caption or title of the table</caption>
+    <tr>
+        <th>The colum titles</th>
+        <th>This is reminding me a bit too much of math I'm scared</th>
+    </tr>
+    </thead>
+    <tbody> <!-- body of the table -->
+    <tr> <!-- each row in the table -->
+        <td>The data in the table</td> <!-- creates a colum -->
+        <td>Table colum</td>
+    </tr>
+    </tbody>
+</table>
+END OF TABLE EXAMPLE
+<span> - An inline container
+<div> - A block container
+<input name="" type="text" value="prefilled text inside text box"/> - An input like text box. Check HTML5 Input Types website to get more types.
+Textarea(bigger than input and more functionality) example:
+<textarea rows="" cols=""> <!-- rows and cols change how big the text area is -->
+    This is the prefilled text inside text area
+</textarea>
+END OF TEXTAREA
+<form> - often used as a container for an input tag
+<iframe src="website to imbed" frameborder="0" width="" height="">Text that displays if iframe can't be viewed</iframe> - iframe, basically embeds another website into your's
+
+
+CSS:
+
+Useful Links:
+CSS Colors - https://www.w3schools.com/cssref/css_colors.asp
+Hex Colors(CSS) - https://www.color-hex.com/
+HTML5 Input Types - https://www.w3schools.com/html/html_form_input_types.asp
+HTML5 Meta Tags list - https://gist.github.com/lancejpollard/1978404
